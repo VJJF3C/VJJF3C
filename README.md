@@ -2,9 +2,9 @@
 
 Meu nome é Victor Jhonnata
 
--Estou estutando no Alura
--Estou em desenvolvimento na linguagem de java script
--utilizo esse espaço para minha organinação e compartilhamento dos meus projetos desenvolvidos
+- Estou estutando no Alura
+- Estou em desenvolvimento na linguagem de java script
+- utilizo esse espaço para minha organinação e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
 
